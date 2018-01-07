@@ -6,7 +6,7 @@ public class SampleGit {
   @Test
   public void NW() {
 	  
-	  System.out.println("new year 1st lesson");
+	  System.out.println("new year 1st lesson1");
 	  
   }
 }
